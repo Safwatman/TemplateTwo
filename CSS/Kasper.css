@@ -862,11 +862,13 @@ header nav .form i:hover {
     background-color: var(--main-color);
     text-decoration: none;
     font-size: 25px;
-    color: black;
+    color: white;
 
 }
 .pricing a:hover {
-    color: white;
+    background-color: #fcfcfc;
+    border: 1px solid var(--main-color);
+
 }
 
 /* END Pricing */
