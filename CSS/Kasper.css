@@ -863,11 +863,11 @@ header nav .form i:hover {
     text-decoration: none;
     font-size: 25px;
     color: white;
-
 }
 .pricing a:hover {
     background-color: #fcfcfc;
     border: 1px solid var(--main-color);
+    color: black;
 
 }
 
